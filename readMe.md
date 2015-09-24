@@ -70,7 +70,7 @@ Framework: CodeIgniter
 
 #### 5. Thanks Letter for giving guest lecture on 3rd year IT Students *(University of Queensland, 2015)*
 
-![](https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf)
+[https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf](https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf)
 
 
 ##### Related Tutorial APP for teaching purpose.
