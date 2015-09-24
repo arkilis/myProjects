@@ -1,15 +1,22 @@
-### Projects 
+### Projects List
 
 What will you get from here?
 
-Projects that I have done, some techniuqes/skills that I used in the projects.
+Some projects that I have done, includes main techniques used in the projects.
 
-----------
+---
 
 
 #### 1. Electronic Seeds Web APP
 
 ElectronicSeeds Application is an iOS (mainly for iPhone) that users can share information very easily.
+
+Features that implemented:
+
+- Remote Push by using APN (Apple Push Notification)
+- StoryBoard
+- AutoLayout by using constraints
+- Amaozon EC2
 
 
 CocoaPods used: 
@@ -30,13 +37,21 @@ Screenshot of APP:
 
 The corresponding website for the Electronic Seeds APP. 
 
-[www.electronicseeds.com](www.electronicseeds.com "ElectronisSeeds")
+[http://www.electronicseeds.com](www.electronicseeds.com "ElectronisSeeds")
 
 You can have a try using the following account:
 
 > username: demo@icloud.com
 > 
 > password: demo123
+
+Some features:
+
+1. Realtime statistics on user's view, including heatMap, line chart, pie chart (use google chart)
+2. Location based  
+
+![](https://github.com/arkilis/myProjects/blob/dev/es1.JPG)
+
 
 
 #### 3. Screenshots of Internal Web Systems (AGRF -- Project Tracker)
@@ -70,7 +85,7 @@ Framework: CodeIgniter
 
 #### 5. Thanks Letter for giving guest lecture on 3rd year IT Students *(University of Queensland, 2015)*
 
-![](https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf)
+[https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf](https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf)
 
 
 ##### Related Tutorial APP for teaching purpose.
@@ -78,6 +93,12 @@ Framework: CodeIgniter
 Slides:
 
 [https://github.com/arkilis/myProjects/blob/dev/infs3202-7202_V2%20(BentekiMacBook-Pro's%202015-05-28).pdf](https://github.com/arkilis/myProjects/blob/dev/infs3202-7202_V2%20(BentekiMacBook-Pro's%202015-05-28).pdf "PDF")
+
+Used Framework:
+
+    - Core Location Framework
+    - iBeacon
+    - RESTFul
 
 Example 1:
 [https://github.com/arkilis/infs3202Example1](https://github.com/arkilis/infs3202Example1)
