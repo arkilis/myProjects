@@ -30,11 +30,11 @@ CocoaPods used:
 
 Screenshot of APP:
 
-![](https://github.com/arkilis/myProjects/blob/dev/iOS%20Simulator%20Screen%20Shot%2029%20Aug%202015%2009.19.10.png =320*568)
+![](https://github.com/arkilis/myProjects/blob/dev/iOS%20Simulator%20Screen%20Shot%2029%20Aug%202015%2009.19.10.png)
 
-![](https://github.com/arkilis/myProjects/blob/dev/nearbySeedsList_mobile.PNG =320*568)
+![](https://github.com/arkilis/myProjects/blob/dev/nearbySeedsList_mobile.PNG)
 
-![](https://github.com/arkilis/myProjects/blob/dev/Seeddetail_Part1_mobile.PNG =320*568)
+![](https://github.com/arkilis/myProjects/blob/dev/Seeddetail_Part1_mobile.PNG)
 
 
 #### 2. Electronic Seeds Web Site
