@@ -1,13 +1,32 @@
 ### Projects List
 
-What will you get from here?
+
+What would you get from here?
 
 Some projects that I have done, includes main techniques used in the projects.
+
+**iOS**: [Electronic Seeds iOS APP](#ios)
+
+
+**Android:**
+[Develop Android App 2013 -- Check Flybuys Points Widget](#android)
+
+**Web:**
+
+[Electronic Seeds Web Site](#web2)
+
+[Screenshots of Internal Web Systems (AGRF -- Project Tracker)](#web3)
+
+[Screenshots of Internal Web Systems (AGRF -- SNP)](#web4)
+
+
+**Others:**  [Thanks Letter for giving guest lecture on 3rd year IT Students *(University of Queensland, 2015)](#thanks) 
+
 
 ---
 
 
-#### 1. Electronic Seeds Web APP
+#### <a href="#ios"> 1. Electronic Seeds iOS APP </a>
 
 ElectronicSeeds Application is an iOS (mainly for iPhone) that users can share information very easily.
 
@@ -37,7 +56,7 @@ Screenshot of APP:
 ![](https://github.com/arkilis/myProjects/blob/dev/Seeddetail_Part1_mobile.PNG)
 
 
-#### 2. Electronic Seeds Web Site
+#### <a href="#web2" /> 2. Electronic Seeds Web Site </a>
 
 The corresponding website for the Electronic Seeds APP. 
 
@@ -59,7 +78,7 @@ Some features:
 ![](https://github.com/arkilis/myProjects/blob/dev/stat2_web.png)
 
 
-#### 3. Screenshots of Internal Web Systems (AGRF -- Project Tracker)
+#### <a href="#web3" /> 3. Screenshots of Internal Web Systems (AGRF -- Project Tracker) </a>
 
 Front End: Bootstrap
 
@@ -72,7 +91,7 @@ Framework: CodeIgniter
 ![](https://github.com/arkilis/myProjects/blob/dev/projectTracker2.JPG)
 
 
-#### 4. Screenshots of Internal Web Systems (AGRF -- SNP)
+#### <a href="#web4" /> 4. Screenshots of Internal Web Systems (AGRF -- SNP) </a>
 
 Front End: Bootstrap
 
@@ -88,7 +107,7 @@ Framework: CodeIgniter
 ![](https://github.com/arkilis/myProjects/blob/dev/snp.gif)
 
 
-#### 5. Thanks Letter for giving guest lecture on 3rd year IT Students *(University of Queensland, 2015)*
+#### <a href="#thanks" /> 5. Thanks Letter for giving guest lecture on 3rd year IT Students *(University of Queensland, 2015)* </a>
 
 [https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf](https://github.com/arkilis/myProjects/blob/dev/Thanks_letter_BEN.pdf)
 
@@ -115,7 +134,20 @@ Example 3:
 [https://github.com/arkilis/infs3202Example3](https://github.com/arkilis/infs3202Example3)
 
 
+#### <a href="#android" /> 6. Develop Android App 2013 -- Check Flybuys Points Widget </a> 
 
+Total number of individual downloads: **1830** 
+
+Total number of overall downloads: **5733**
+
+Rating: **3/5**
+
+(It has been removed from Google Play since I stopped updating it). Here is some links:
+
+[http://www.appszoom.com/android_applications/productivity/check-flybuys-points-widget_jttlb.html](http://www.appszoom.com/android_applications/productivity/check-flybuys-points-widget_jttlb.html "check-flybuys-points-widget")
+
+
+[http://www.bestappsmarket.com/p/app?appId=1048508&title=check-flybuys-points-widget#](http://www.bestappsmarket.com/p/app?appId=1048508&title=check-flybuys-points-widget "CHECK FLYBUYS POINTS WIDGET")
 
 
 
