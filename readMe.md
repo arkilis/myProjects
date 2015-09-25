@@ -26,7 +26,7 @@ Some projects that I have done, includes main techniques used in the projects.
 ---
 
 
-#### <a href="#ios"> 1. Electronic Seeds iOS APP </a>
+#### <a name="ios"> 1. Electronic Seeds iOS APP </a>
 
 ElectronicSeeds Application is an iOS (mainly for iPhone) that users can share information very easily.
 
