@@ -25,6 +25,10 @@ Some projects that I have done, includes main techniques used in the projects.
 
 ---
 
+#### Overview on my github
+
+![](https://github.com/arkilis/myProjects/blob/dev/Gitprofile.png)
+
 
 #### <a name="ios" /> 1. Electronic Seeds iOS APP </a>
 
